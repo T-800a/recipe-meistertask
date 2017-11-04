@@ -1,0 +1,12 @@
+{
+  "id": "meistertask",
+  "name": "MeisterTask",
+  "version": "1.0",
+  "description": "MeisterTask",
+  "main": "index.js",
+  "author": "T-800a <t-800a@gmx.net>",
+  "license": "",
+  "config": {
+    "serviceURL": "https://www.meistertask.com/app/dashboard"
+  }
+}
